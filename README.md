@@ -31,25 +31,20 @@
 ### [<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/drive/1xZnQmbkOVZrMvZgDAhuTP62KQO2N6-vE?usp=sharing) Further Pre-training on Romanized Bangla Corpus
 ### [<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/drive/1EpgVq58RZm1U9ep9FKqlqw2IAGu9eUNY?usp=sharing) Romanized Bangla Back-Transliteration 
 
-## Getting Started
+## Installation
 
-1. Install the dependencies of this repository using:
+Install the dependencies of this repository using:
 
-   ```
-   pip install -r requirements.txt
-   ```
-   
-2. (Optional) Run the Python file in the `scripts` folder for further pre-training the model. Alternatively, you can use the pre-trained model weights from HuggingFace.
+```
+pip install -r requirements.txt
+```
+## Further Pre-training (Optional)
 
-   ```
-   python scripts/further_pretraining.py
-   ```
-   
-3. Train and evaluate the model using the Python file in the `scripts` folder. Optionally, test the model on a sample text by running `inference_back_transliteration.py`.
+Run the Python file in the `scripts` folder for further pre-training the model. Alternatively, you can use the pre-trained model weights from HuggingFace.
 
-   ```
-   python scripts/training_back_transliteration.py
-   ```
+```
+python scripts/further_pretraining.py
+```
 
 ## Further Pre-Trained (FPT) Model Weights
 
@@ -60,3 +55,11 @@
 | [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20_HuggingFace-TB--XLR--R-ffc107?color=ffc107&logoColor=white)](https://huggingface.co/aplycaebous/tb-XLM-R-fpt) | aplycaebous/tb-XLM-R-fpt |
 | [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20_HuggingFace-TB--BanglaBERT-ffc107?color=ffc107&logoColor=white)](https://huggingface.co/aplycaebous/tb-BanglaBERT-fpt) | aplycaebous/tb-BanglaBERT-fpt |
 | [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20_HuggingFace-TB--BanglishBERT-ffc107?color=ffc107&logoColor=white)](https://huggingface.co/aplycaebous/tb-BanglishBERT-fpt) | aplycaebous/tb-BanglishBERT-fpt |
+
+## Training and Evaluation
+   
+Train and evaluate the model using the Python file in the `scripts` folder. Optionally, test the model on a sample text by running `inference_back_transliteration.py`.
+
+```
+python scripts/training_back_transliteration.py
+```
