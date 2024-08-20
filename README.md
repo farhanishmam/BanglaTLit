@@ -7,6 +7,21 @@
 
 ## Dataset Overview
 
+- The BanglaTLit-PT dataset is a pre-training corpus with 245727 transliterated or romanized Bangla samples for further pre-training language models.
+- The BanglaTLit dataset is a subset of the BanglaTLit-PT dataset containing 42705 romanized Bangla and its corresponding Bangla back-transliteration pairs.
+- Summary statistics of the BanglaTLit dataset are provided below. **TL**: Transliterated and **BTL**: Back-Transliterated.
+
+   | Statistic              | TL    | BTL   |
+   |-------------------------|-------|-------|
+   | Mean Character Length    | 59.24 | 58.28 |
+   | Max Character Length     | 1406  | 1347  |
+   | Min Character Length     | 3     | 4     |
+   | Mean Word Count          | 10.35 | 10.51 |
+   | Max Word Count           | 212   | 226   |
+   | Min Word Count           | 2     | 2     |
+   | Unique Word Count        | 81848 | 60644 |
+   | Unique Sentence Count    | 42705 | 42471 |
+
 ## Methodology Overview
 
 <img src="./assets/overview.png" alt="Image Not Found" width="650"/>
