@@ -1,14 +1,14 @@
 # BanglaTLit: A Benchmark Dataset for Back-Transliteration of Romanized Bangla
 
-**Paper:** In-progress
+![paper](https://img.shields.io/badge/Paper_Status-In--Progress-yellow)
 
 [Md Fahim](https://github.com/md-fahim/), [Fariha Tanjim Shifat](https://github.com/fariha6412), [Md Farhan Ishmam](https://farhanishmam.github.io/), [Deeparghya Dutta Barua](https://github.com/arg274), 
 [Fabiha Haider](https://github.com/FabihaHaider), [Md Sakib Ul Rahman Sourove](https://github.com/souroveskb), and [Farhad Alam Bhuiyan](https://github.com/pdfarhad).
 
 ## Dataset Overview
 
-- The BanglaTLit-PT dataset is a pre-training corpus with 245727 transliterated or romanized Bangla samples for further pre-training language models.
-- The BanglaTLit dataset is a subset of the BanglaTLit-PT dataset containing 42705 romanized Bangla and its corresponding Bangla back-transliteration pairs.
+- **BanglaTLit-PT:** A pre-training corpus with 245727 transliterated or romanized Bangla samples for further pre-training language models.
+- **BanglaTLit:** Subset of the BanglaTLit-PT dataset containing 42705 romanized Bangla and its corresponding Bangla back-transliteration pairs.
 - Summary statistics of the BanglaTLit dataset are provided below. **TL**: Transliterated and **BTL**: Back-Transliterated.
 
    | Statistic              | TL    | BTL   |
