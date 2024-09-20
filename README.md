@@ -1,6 +1,6 @@
 # BanglaTLit: A Benchmark Dataset for Back-Transliteration of Romanized Bangla
 
-![paper](https://img.shields.io/badge/Paper_Status-In--Review-yellow)
+_Findings of the Association for Computational Linguistics: EMNLP 2024_
 
 [Md Fahim*](https://github.com/md-fahim/), [Fariha Tanjim Shifat*](https://github.com/fariha6412), [Md Farhan Ishmam*](https://farhanishmam.github.io/), [Deeparghya Dutta Barua](https://github.com/arg274), 
 [Fabiha Haider](https://github.com/FabihaHaider), [Md Sakib Ul Rahman Sourove](https://github.com/souroveskb), and [Farhad Alam Bhuiyan](https://github.com/pdfarhad).
