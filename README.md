@@ -4,8 +4,8 @@
 [![arXiv](https://img.shields.io/badge/Code-farhanishmam/BanTH-blue?logo=GitHub)](https://github.com/farhanishmam/BanglaTLit)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20_Dataset-aplycaebous/BanglaTLit-ffc107?color=ffc107&logoColor=white)](https://huggingface.co/datasets/aplycaebous/BanglaTLit)
 
-[Md Fahim*](https://github.com/md-fahim/), [Fariha Tanjim Shifat*](https://github.com/fariha6412), [Md Farhan Ishmam*](https://farhanishmam.github.io/), [Deeparghya Dutta Barua](https://github.com/arg274), 
-[Fabiha Haider](https://github.com/FabihaHaider), [Md Sakib Ul Rahman Sourove](https://github.com/souroveskb), and [Farhad Alam Bhuiyan](https://github.com/pdfarhad).
+[Md Fahim*](https://github.com/md-fahim/), [Fariha Tanjim Shifat*](https://github.com/fariha6412), [Fabiha Haider*](https://github.com/FabihaHaider), [Deeparghya Dutta Barua](https://github.com/arg274), 
+[Md Sakib Ul Rahman Sourove](https://github.com/souroveskb), [Md Farhan Ishmam](https://farhanishmam.github.io/), and [Farhad Alam Bhuiyan](https://github.com/pdfarhad).
 
 ## Dataset Overview
 
