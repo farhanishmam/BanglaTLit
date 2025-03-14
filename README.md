@@ -81,3 +81,24 @@ The trained model can be tested on a given sample by running the following comma
 ```
 python scripts/inference_back_transliteration.py
 ```
+
+## Citation
+
+If you find this work useful, please cite our paper:
+
+```bib
+@inproceedings{fahim-etal-2024-banglatlit,
+    title = "{B}angla{TL}it: A Benchmark Dataset for Back-Transliteration of {R}omanized {B}angla",
+    author = "Fahim, Md  and Shifat, Fariha Tanjim  and Haider, Fabiha  and Barua, Deeparghya Dutta  and
+      Sourove, MD Sakib Ul Rahman  and Ishmam, Md Farhan  and Bhuiyan, Md Farhad Alam",
+    editor = "Al-Onaizan, Yaser  and Bansal, Mohit  and Chen, Yun-Nung",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-emnlp.859/",
+    doi = "10.18653/v1/2024.findings-emnlp.859",
+    pages = "14656--14672"
+}
+```
